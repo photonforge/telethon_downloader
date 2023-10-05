@@ -137,6 +137,7 @@ def config_file():
 		config['DEFAULT_PATH']['flac'] = '/download/mp3'
 		config['DEFAULT_PATH']['jpg'] = '/download/jpg'
 		config['DEFAULT_PATH']['mp4'] = '/download/mp4'
+		config['DEFAULT_PATH']['mov'] = '/download/mp4'
 
 		config['REGEX_PATH'] = {}
 		config['REGEX_PATH']['/example/i'] = '/download/example'
